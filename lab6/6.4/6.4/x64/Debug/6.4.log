@@ -1,0 +1,3 @@
+﻿  6.4.cpp
+C:\Users\sviri\Desktop\lab6\6.4\6.4\6.4.cpp(10,34): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  6.4.vcxproj -> C:\Users\sviri\Desktop\lab6\6.4\x64\Debug\6.4.exe
