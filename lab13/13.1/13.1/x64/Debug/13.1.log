@@ -1,0 +1,4 @@
+﻿  13.1.cpp
+C:\Users\sviri\Desktop\lab13\13.1\13.1\13.1.cpp(10,15): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\sviri\Desktop\lab13\13.1\13.1\13.1.cpp(15,11): warning C4305: +=: усечение из "double" в "float"
+  13.1.vcxproj -> C:\Users\sviri\Desktop\lab13\13.1\x64\Debug\13.1.exe
